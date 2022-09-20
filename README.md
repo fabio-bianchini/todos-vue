@@ -1,34 +1,19 @@
-# goal-systems
+# Fabio Bianchini's todos-vue project
 
-## Project setup
+## Install dependencies
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run and serve on local
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Run the unit tests
 
-### Run your unit tests
 ```
 npm run test:unit
 ```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
